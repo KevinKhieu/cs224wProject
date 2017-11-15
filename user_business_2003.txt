@@ -1,0 +1,3 @@
+# 2003 Yearly Undirected Bipartite Graph: Users to Businesses (Reviews)
+# Tab-separated list of edges. Refer to filename_elite.txt for elite mapping
+# NodeId  NodeId
